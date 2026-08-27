@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Pipeline runtime output (generated data files)
+data/raw/*.csv
+data/raw/*.xlsx
+data/raw/*.xls
+data/processed/*.csv
+data/processed/*.parquet
