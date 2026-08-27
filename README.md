@@ -247,3 +247,15 @@ memory comfortably, the recommended approach is to:
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+---
+
+## About the author
+
+**Japanjot Singh** is available for **freelance and contract work** — and open to
+**hiring**. If you need clean, production-grade data pipelines, data engineering,
+or Python development, feel free to reach out.
+
+- Available for: freelance, contract, and full-time roles
+- Focus: data pipelines, data preprocessing, data engineering, Python
+
