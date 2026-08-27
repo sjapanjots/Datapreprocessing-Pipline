@@ -252,7 +252,7 @@ MIT — see [LICENSE](LICENSE).
 
 ## About the author
 
-**Japanjot Singh** is available for **freelance and contract work** — and open to
+Available for **freelance and contract work** — and open to
 **hiring**. If you need clean, production-grade data pipelines, data engineering,
 or Python development, feel free to reach out.
 
