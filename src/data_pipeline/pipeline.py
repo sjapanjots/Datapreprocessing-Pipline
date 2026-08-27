@@ -11,7 +11,6 @@ from data_pipeline.config import PipelineConfig
 from data_pipeline.exporters.base import BaseExporter
 from data_pipeline.exporters.composite import CompositeExporter
 from data_pipeline.logger import get_logger
-from data_pipeline.validators.quality_validator import CompositeValidator
 from data_pipeline.validators.report import ValidationResult
 
 logger = get_logger(__name__)
